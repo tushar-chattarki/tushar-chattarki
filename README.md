@@ -1,5 +1,14 @@
-## Hi there 👋
+# Tushar Chattarki
+## SE - A 
 
+Hi ! I'm Tushar , from SE - A .
+My technical skills : 
+- C++
+- Python
+
+Eagerly looking forward to work with the team .
+
+[LinkedIn](www.linkedin.com/in/tushar-chattarki-5030bb290)
 <!--
 **tushar-chattarki/tushar-chattarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
