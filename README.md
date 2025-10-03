@@ -1,4 +1,4 @@
-# Tushar Ramkrishna Chattarki
+# Hi, I'm Tushar Ramkrishna Chattarki
 
 **Data Science Engineer | AI & Machine Learning Enthusiast**
 
