@@ -4,9 +4,12 @@
 
 📍 Pune, India · 🎓 B.E. Artificial Intelligence & Data Science · **CGPA: 8.91/10**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Chattarki-blue?style=flat\&logo=linkedin)]([(https://www.linkedin.com/in/tushar-chattarki-5030bb290/)])
-[![GitHub](https://img.shields.io/badge/GitHub-tushar--chattarki-black?style=flat\&logo=github)](https://github.com/tushar-chattarki)
-[![Email](https://img.shields.io/badge/Email-tusharchattarki007%40gmail.com-red?style=flat\&logo=gmail)](mailto:tusharchattarki007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Chattarki-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tushar-chattarki-5030bb290/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-tushar--chattarki-black?style=flat&logo=github)](https://github.com/tushar-chattarki)
+
+[![Email](https://img.shields.io/badge/Email-tusharchattarki007%40gmail.com-red?style=flat&logo=gmail)](mailto:tusharchattarki007@gmail.com)
+
 
 ---
 
